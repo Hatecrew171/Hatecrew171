@@ -1,34 +1,72 @@
-# 👋 ¡Hola! Soy Benjamín Sebastián Palacios Uribe
+# 👋 Hola, soy Benjamín
 
-### Técnico Analista de Sistemas | Desarrollador FullStack
-
-Apasionado por el desarrollo de software y las soluciones tecnológicas. Mi enfoque principal es la creación de aplicaciones web robustas y sistemas internos que optimicen procesos empresariales. 
+💻 Desarrollador Backend / Full-Stack con experiencia en desarrollo de APIs, sistemas web y soluciones orientadas a negocio.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
-- **Lenguajes:** PHP, Python, JavaScript
-- **Frameworks:** Laravel, CodeIgniter, NodeJS, Vue
-- **Bases de datos:** MySQL, MongoDB
-- **Otros:** Bootstrap, Git, APIs REST
+## 🚀 Sobre mí
+
+* 🔧 +5 años desarrollando sistemas web y backend
+* 🧠 Experiencia en diseño de APIs REST y lógica de negocio
+* ☁️ Trabajo con arquitecturas basadas en microservicios y entornos cloud (AWS)
+* ⚡ Enfocado en construir soluciones escalables y mantenibles
+* 📚 Actualmente fortaleciendo mi stack en Java y Spring Boot
 
 ---
 
-### 🌟 Experiencia
-He tenido la oportunidad de trabajar como **Desarrollador FullStack** en proyectos de los sectores:
-- **Inmobiliario:** Desarrollo de plataformas de gestión y portales para clientes.
-- **Minero:** Creación de sistemas internos para optimización de operaciones.
-- **Vehicular:** Implementación de soluciones web para la gestión de flotas y ventas.
+## 🛠️ Stack Tecnológico
+
+**Backend**
+Java (Spring Boot) • PHP (Laravel, CodeIgniter) • Python
+
+**Frontend**
+JavaScript • Vue.js • (conocimientos en Angular)
+
+**Bases de Datos**
+PostgreSQL • MySQL • MongoDB
+
+**Otros**
+APIs REST • Microservicios • AWS • Git
 
 ---
 
-### 📫 Contacto
-- **Correo electrónico:** [benjamin.palacios.u@gmail.com](mailto:benjamin.palacios.u@gmail.com)
-- **LinkedIn:** [Benjamín Sebastián Palacios Uribe](https://www.linkedin.com/in/benjamin-palacios-u/) 
+## 📌 Proyectos Destacados
+
+### 🔹 API REST - Spring Boot
+
+Desarrollo de backend con arquitectura por capas, seguridad con Spring Security y persistencia con JPA.
+👉 https://github.com/Hatecrew171/SpringEduManager
 
 ---
 
-### 🚀 Mi objetivo
-Continuar aprendiendo y desarrollando soluciones que generen impacto positivo en las empresas y los usuarios finales. Siempre estoy abierto a colaborar en proyectos interesantes y desafiantes.
+### 🔹 ¿Quién es este Pokémon? (Vue.js)
 
-¡Gracias por visitar mi perfil! 😄
+Aplicación interactiva que consume una API externa, con manejo de estado reactivo y componentes reutilizables.
+👉 https://github.com/Hatecrew171/pokemon_vue
+
+---
+
+### 🔹 Viajes Chile (Landing Page)
+
+Landing page responsiva desarrollada con HTML y SCSS.
+👉 https://hatecrew171.github.io/viajeschile/
+
+---
+
+## 📫 Contacto
+
+* 💼 LinkedIn: https://www.linkedin.com/in/tu-linkedin
+* 📧 Email: [benjamin.palacios.u@gmail.com](mailto:benjamin.palacios.u@gmail.com)
+
+---
+
+## ⚡ Intereses
+
+* Desarrollo Backend
+* Arquitectura de software
+* Microservicios
+* Cloud y escalabilidad
+
+---
+
+⭐ Siempre buscando aprender y mejorar como desarrollador.
