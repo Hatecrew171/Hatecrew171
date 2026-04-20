@@ -55,7 +55,7 @@ Landing page responsiva desarrollada con HTML y SCSS.
 
 ## 📫 Contacto
 
-* 💼 LinkedIn: https://www.linkedin.com/in/tu-linkedin
+* 💼 LinkedIn: [https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/benjamin-palacios-u/)
 * 📧 Email: [benjamin.palacios.u@gmail.com](mailto:benjamin.palacios.u@gmail.com)
 
 ---
